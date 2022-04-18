@@ -6,7 +6,7 @@
 # Hackathon-Itau-Mackenzie
 
 ### Não se perca na Agenda! 
-**Um evento como esse é difícil organizar e por isso estamos fazendo mudanças constantes na agenda para oferecer o melhor para vocês... assim fique ligado, vamos buscar manter AQUI as datas e links sempre o mais atualizados possível! ;-)**
+**Um evento como esse é difícil de organizar e por isso estamos fazendo mudanças constantes na agenda para oferecer o melhor para vocês... assim fique ligado, vamos buscar manter AQUI as datas e links sempre o mais atualizados possível! ;-)**
 
 <br>
 <br>
