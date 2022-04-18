@@ -23,7 +23,7 @@
 
 ### 25.04 (dia inteiro)
 * Treinamento on-line
-* 
+
 ### 02, 03, 04.05 (dia inteiro)
 * O Desafio! Participação do Hackathon e Atividades Complementares (dias inteiros)
 
