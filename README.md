@@ -14,18 +14,18 @@
 ## 𝗔𝗴𝗲𝗻𝗱𝗮
 
 ### 19.04 
-* Encerramento das Confirmações
-* Início de Treinamentos Opcionais (ver agenda e inscrições abaixo)
+* 18h, Confirmação dos Selecionados
+* Início de Treinamentos Extras Opcionais (ver agenda e inscrições abaixo)
 
 ### 20.04 
-* Confirmações da Lista de Espera
-* Divulgação de Links de Capacitação
+* Chamada dos inscritos em Lista de Espera
+* Link de treinamentos para que os participantes já comecem a preparação (aqui e por e-mail)
 
 ### 25.04 (dia inteiro)
-* Capacitação 
-
-### 02, 03, 05.05 (dia inteiro)
-* O Desafio!
+* Treinamento on-line
+* 
+### 02, 03, 04.05 (dia inteiro)
+* O Desafio! Participação do Hackathon e Atividades Complementares (dias inteiros)
 
 
 
