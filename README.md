@@ -8,6 +8,10 @@
 ### Não se perca na Agenda! 
 **Um evento como esse é difícil de organizar e por isso estamos fazendo mudanças constantes na agenda para oferecer o melhor para vocês... assim fique ligado, vamos buscar manter AQUI as datas e links sempre o mais atualizados possível! ;-)**
 
+<h6 style="font-size:4vw" align="right">Dúvidas 11 97515-1919 </h6>
+
+<img src="https://d1cb96qxozavf7.cloudfront.net/news/png-clipart-whatsapp-icon-logo-whatsapp-logo-whatsapp-logo-text-trademark1.png" width="10%" align="right"/>
+
 <br>
 <br>
 
