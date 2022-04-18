@@ -21,7 +21,7 @@
 
 > [inscrição](https://docs.google.com/forms/d/e/1FAIpQLSc5Y0ejP3At1H8XUg0bNjv4ilm7UQX-m5K70wq5SfkH50Rg0g/viewform?usp=sf_link)
 
-> [link para assistir](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) 
+> [link para assistir no horário](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) 
 
 <br>
 <br>
@@ -35,7 +35,7 @@
 
 > [inscrição](https://docs.google.com/forms/d/e/1FAIpQLScFACpZZuFewMQXMYxwanDrlrTxvLCZ-OY-zkDfN7yrnEISew/viewform?usp=sf_link)
 
-> [link para assistir](https://meet.google.com/krk-chzk-iyw) 
+> [link para assistir no horário](https://meet.google.com/krk-chzk-iyw) 
 
 <br>
 <br>
@@ -49,7 +49,8 @@
 
 > [inscrição](https://docs.google.com/forms/d/e/1FAIpQLSewanp8PSPWHIMraF0OPMe2jwRh8MNCw40iuWE3NPjmhgEaUw/viewform?usp=sf_link)
 
-> [link para assistir] a confirmar
+> [link para assistir no horário] *aguarde*
+
 
 <br>
 <br>
@@ -61,9 +62,9 @@
 
 > *(a confirmar)* 
 
-> [inscrição] a confirmar
+> [inscrição] *aguarde*
 
-> [link para assistir] a confirmar 
+> [link para assistir] *aguarde*
 
 <br>
 <br>
