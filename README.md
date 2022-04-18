@@ -5,14 +5,37 @@
 
 # Hackathon-Itau-Mackenzie
 
-𝗡𝗼𝘀𝘀𝗼 𝗕𝗼𝗼𝘁𝗰𝗮𝗺𝗽... 𝗜𝗻𝗰𝗿𝗶𝗰̧𝗼̃𝗲𝘀 𝗽𝗮𝗿𝗮 𝗧𝗿𝗲𝗶𝗻𝗮𝗺𝗲𝗻𝘁𝗼𝘀 𝗟𝗶𝘃𝗿𝗲𝘀 𝗱𝗼 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻. Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcionais e as gravações estarão disponíveis neste site depois de realizadas.
-
-<br>
-<br>
-
+### Não se perca na Agenda! 
 **Um evento como esse é difícil organizar e por isso estamos fazendo mudanças constantes na agenda para oferecer o melhor para vocês... assim fique ligado, vamos buscar manter AQUI as datas e links sempre o mais atualizados possível! ;-)**
 
 <br>
+<br>
+
+## 𝗔𝗴𝗲𝗻𝗱𝗮
+
+### 19.04 
+* Encerramento das Confirmações
+* Início de Treinamentos Opcionais (ver agenda e inscrições abaixo)
+
+### 20.04 
+* Confirmações da Lista de Espera
+* Divulgação de Links de Capacitação
+
+### 25.04 (dia inteiro)
+* Capacitação 
+
+### 02, 03, 05.05 (dia inteiro)
+* O Desafio!
+
+
+
+<br>
+<br>
+
+## 𝗡𝗼𝘀𝘀𝗼 𝗕𝗼𝗼𝘁𝗰𝗮𝗺𝗽... 𝗜𝗻𝗰𝗿𝗶𝗰̧𝗼̃𝗲𝘀 𝗽𝗮𝗿𝗮 𝗧𝗿𝗲𝗶𝗻𝗮𝗺𝗲𝗻𝘁𝗼𝘀 𝗟𝗶𝘃𝗿𝗲𝘀 𝗱𝗼 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻. 
+
+Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcionais e as gravações estarão disponíveis neste site depois de realizadas.
+
 <br>
 <br>
 
