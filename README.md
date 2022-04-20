@@ -18,7 +18,7 @@
 ## 𝗔𝗴𝗲𝗻𝗱𝗮
 
 ### 19.04 
-* 18h, Confirmação dos Selecionados
+* 18h, Confirmação dos Selecionados Encerrada - [Acesse aqui os alunos que confirmaram a inscrição](https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie/raw/main/Confirmados_Hackathon_Itau.pdf)
 * Início de Treinamentos Extras Opcionais (ver agenda e inscrições abaixo)
 
 ### 20.04 
@@ -51,9 +51,19 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > *(Mackenzie FCI Prof. Rogério de Oliveira)* 
 
-> [inscrição](https://docs.google.com/forms/d/e/1FAIpQLSc5Y0ejP3At1H8XUg0bNjv4ilm7UQX-m5K70wq5SfkH50Rg0g/viewform?usp=sf_link)
+> [inscrições encerradas](encerradas)
 
-> [link para assistir no horário](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) 
+> [notebook](https://colab.research.google.com/github/Rogerio-mack/Hackathon-Itau-Mackenzie/blob/main/E1_IntrodTimeSeries.ipynb)
+
+> [assista a gravação 1](http://meusite.mackenzie.br/rogerio/videos/E1_20220419a.mp4) 
+| [2](http://meusite.mackenzie.br/rogerio/videos/E1_20220419b.mp4) 
+| [3](http://meusite.mackenzie.br/rogerio/videos/E1_20220419c.mp4) 
+
+> **Referências**
+
+<a href="https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie/raw/main/Peixeiro%20(2021).pdf"><img src="https://images-na.ssl-images-amazon.com/images/I/41Bzp6+HVyL._SX258_BO1,204,203,200_.jpg" class="media-object  img-responsive img-thumbnail" width="15%"></a>
+
+<a href="https://www.youtube.com/channel/UC-0lpiwlftqwC7znCcF83qg"><img src="https://i.ytimg.com/vi/XhRL3saKwgk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyvWO8M53oHM6cLKXdcDAo9rzcsg" class="media-object  img-responsive img-thumbnail" width="15%"></a>
 
 <br>
 <br>
@@ -81,7 +91,7 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > [inscrição](https://docs.google.com/forms/d/e/1FAIpQLSewanp8PSPWHIMraF0OPMe2jwRh8MNCw40iuWE3NPjmhgEaUw/viewform?usp=sf_link)
 
-> [link para assistir no horário] *aguarde*
+> [link para assistir no horário] (https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM0OTAwMjktYmI0My00ZGQyLWJjYTgtNTg4ZGNjZjUzNjA3%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%221a56ea97-72a5-4dbd-8dc3-4c9285e6d3b2%22%7d)
 
 
 <br>
