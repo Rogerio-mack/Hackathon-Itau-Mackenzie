@@ -31,10 +31,16 @@
 ### 02, 03, 04.05 (dia inteiro)
 * O Desafio! Participação do Hackathon e Atividades Complementares (dias inteiros)
 
+<br>
+<br>
 
+## Capacitações on-line que a Batalha Separou para você
+
+Acesse [aqui](https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie/raw/main/capacitaOnlineBatalhaItau.md) as trilhas de capacitação on-line que o time de Batalha de Dados do Itaú separou para você. Veja os que são do seu interesse, os que você julga conhecer menos, e bora se preparar melhor para o desafio!!!
 
 <br>
 <br>
+
 
 ## 𝗡𝗼𝘀𝘀𝗼 𝗕𝗼𝗼𝘁𝗰𝗮𝗺𝗽... 𝗜𝗻𝘀𝗰𝗿𝗶𝗰̧𝗼̃𝗲𝘀 𝗽𝗮𝗿𝗮 𝗧𝗿𝗲𝗶𝗻𝗮𝗺𝗲𝗻𝘁𝗼𝘀 𝗟𝗶𝘃𝗿𝗲𝘀 𝗱𝗼 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻.
 
@@ -91,7 +97,7 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > [inscrição](https://docs.google.com/forms/d/e/1FAIpQLSewanp8PSPWHIMraF0OPMe2jwRh8MNCw40iuWE3NPjmhgEaUw/viewform?usp=sf_link)
 
-> [link para assistir no horário] (https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM0OTAwMjktYmI0My00ZGQyLWJjYTgtNTg4ZGNjZjUzNjA3%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%221a56ea97-72a5-4dbd-8dc3-4c9285e6d3b2%22%7d)
+> [link para assistir no horário](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM0OTAwMjktYmI0My00ZGQyLWJjYTgtNTg4ZGNjZjUzNjA3%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%221a56ea97-72a5-4dbd-8dc3-4c9285e6d3b2%22%7d)
 
 
 <br>
