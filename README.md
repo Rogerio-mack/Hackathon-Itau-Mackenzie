@@ -83,6 +83,8 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > [inscrição](https://docs.google.com/forms/d/e/1FAIpQLScFACpZZuFewMQXMYxwanDrlrTxvLCZ-OY-zkDfN7yrnEISew/viewform?usp=sf_link)
 
+> [notebook](https://colab.research.google.com/github/Rogerio-mack/Hackathon-Itau-Mackenzie/blob/main/E2_TimeSeriesARIMA.ipynb)
+
 > [link para assistir no horário](https://meet.google.com/krk-chzk-iyw) 
 
 <br>
