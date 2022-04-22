@@ -81,11 +81,11 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > *(Mackenzie EE Prof. Orlando Albarracin)*
 
-> [inscrição](https://docs.google.com/forms/d/e/1FAIpQLScFACpZZuFewMQXMYxwanDrlrTxvLCZ-OY-zkDfN7yrnEISew/viewform?usp=sf_link)
+> [inscrições encerradas](encerradas)
 
 > [notebook](https://colab.research.google.com/github/Rogerio-mack/Hackathon-Itau-Mackenzie/blob/main/E2_TimeSeriesARIMA.ipynb)
 
-> [link para assistir no horário](https://meet.google.com/krk-chzk-iyw) 
+> [assista a gravação](https://drive.google.com/file/d/1AN4o3OoZ2ZGeFwEKMGU0qLnFApoSFPfb/view?usp=sharing) 
 
 <br>
 <br>
