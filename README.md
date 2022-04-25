@@ -15,6 +15,13 @@
 <br>
 <br>
 
+### [Amostra dos dados e Metadados](https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie/tree/main/amostra_bdmack/amostras)
+
+### [Acesse o seu grupo aqui](https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie/raw/main/Grupos.pdf)
+
+<br>
+<br>
+
 ## 𝗔𝗴𝗲𝗻𝗱𝗮
 
 ### 19.04 
@@ -99,14 +106,37 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 <br>
 <br>
 
-### 𝟮𝟱.𝟬𝟰 𝗦𝗲𝗴 𝟮𝟭:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟮:𝟬𝟬𝗵 
+### 𝟮𝟱.𝟬𝟰 𝗦𝗲𝗴 𝟮𝟭:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟮:𝟬𝟬𝗵
+### 𝗔𝗽𝗿𝗲𝗻𝗱𝗶𝘇𝗮𝗱𝗼 𝗱𝗲 𝗠𝗮́𝗾𝘂𝗶𝗻𝗮 𝗲 𝗦𝗲́𝗿𝗶𝗲𝘀 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗶𝘀 𝗲𝗺 𝗣𝘆𝘁𝗵𝗼𝗻 
+
+> *Feature engineering*; Regressores do `scikit-learn` para predição de valores; Predição multimodal (mais que uma variável); Prevendo o aluguel de Bikes com Dados Climáticos!!! rs
+
+> *(Mackenzie FCI Prof. Rogério de Oliveira)* 
+
+> [inscrição opcional, o acesso é livre](https://forms.gle/7qAmYZf3Jc8NrqCR8)
+
+> [notebook] *em preparação*
+
+> [link para assistir no horário](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) 
+
+> **Referências**
+
+<br>
+<br>
+
+<a href="https://www.kaggle.com/learn/time-series"><img src="https://www.kaggle.com/static/images/education/km/time-series.svg" class="media-object  img-responsive img-thumbnail" width="15%"></a>
+
+<br>
+<br>
+
+### 𝟮𝟴.𝟬𝟰 𝗦𝗲𝗴 𝟮𝟬:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟭:𝟬𝟬𝗵
 ### 𝗜𝗻𝗰𝗹𝘂𝗶𝗱𝗼 𝗩𝗮𝗿𝗶𝗮́𝘃𝗲𝗶𝘀 𝗘𝘅𝘁𝗲𝗿𝗻𝗮𝘀 𝗮𝗼𝘀 𝗠𝗼𝗱𝗲𝗹𝗼𝘀 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗶𝘀
 
 > Previsão de Séries Temporais incluindo variáveis Exógenas, com Python e o pacote statsmodel. 
 
 > (Mackenzie EE Prof Gustavo Rocha)
 
-> [inscrição](https://docs.google.com/forms/d/e/1FAIpQLSewanp8PSPWHIMraF0OPMe2jwRh8MNCw40iuWE3NPjmhgEaUw/viewform?usp=sf_link)
+> [inscrição opcional, o acesso é livre](https://docs.google.com/forms/d/e/1FAIpQLSewanp8PSPWHIMraF0OPMe2jwRh8MNCw40iuWE3NPjmhgEaUw/viewform?usp=sf_link)
 
 > [link para assistir no horário](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM0OTAwMjktYmI0My00ZGQyLWJjYTgtNTg4ZGNjZjUzNjA3%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%221a56ea97-72a5-4dbd-8dc3-4c9285e6d3b2%22%7d)
 
@@ -114,16 +144,4 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 <br>
 <br>
 
-### 𝟮𝟲.𝟬𝟰 𝗧𝗲𝗿 𝟮𝟭:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟮:𝟬𝟬𝗵 *(a confirmar)* 
-### 𝗔𝗰𝗲𝘀𝘀𝗮𝗻𝗱𝗼 𝗱𝗮𝗱𝗼𝘀 𝗰𝗼𝗺 𝗦𝗤𝗟, 𝗣𝘆𝘁𝗵𝗼𝗻 𝗲 𝗛𝗶𝘃𝗲
 
-> Como empregar SQL para acessar dados com Python e Hive
-
-> *(a confirmar)* 
-
-> [inscrição] *aguarde*
-
-> [link para assistir] *aguarde*
-
-<br>
-<br>
