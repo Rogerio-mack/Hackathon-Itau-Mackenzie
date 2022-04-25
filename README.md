@@ -27,6 +27,15 @@
 
 ### 25.04 (dia inteiro)
 * Treinamento on-line
+* [Click aqui para acessar o evento de abertura no Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWJlNWIxM2UtOGFmZi00ZmU5LTg5MzQtY2YwMzIzYWMyOGQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22591669a0-183f-49a5-98f4-9aa0d0b63d81%22%2c%22Oid%22%3a%22aed66be0-e08b-44d8-b49d-12176cceb823%22%7d)
+
+<br>
+
+<img src="https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie/raw/main/agendadia1.png" width="30%" align="center"/>
+
+<br>
+
+* Para todos os candidatos selecionados foi enviado **email com invite para todas as demais palestras e treinamentos** ao longo do dia
 
 ### 02, 03, 04.05 (dia inteiro)
 * O Desafio! Participação do Hackathon e Atividades Complementares (dias inteiros)
