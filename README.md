@@ -8,7 +8,7 @@
 ### Não se perca na Agenda! 
 **Um evento como esse é difícil de organizar e por isso estamos fazendo mudanças constantes na agenda para oferecer o melhor para vocês... assim fique ligado, vamos buscar manter AQUI as datas e links sempre o mais atualizados possível! ;-)**
 
-<h6 style="font-size:4vw" align="right">Dúvidas 11 97515-1919 </h6>
+<h6 style="font-size:4vw" align="right">Dúvidas https://chat.whatsapp.com/C4YDPMaaDybCBUhczGritN</h6>
 
 <img src="https://d1cb96qxozavf7.cloudfront.net/news/png-clipart-whatsapp-icon-logo-whatsapp-logo-whatsapp-logo-text-trademark1.png" width="10%" align="right"/>
 
@@ -19,22 +19,22 @@
 
 ### [Acesse o seu grupo aqui](https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie/raw/main/Grupos.pdf)
 
+
 <br>
 <br>
 
 ## 𝗔𝗴𝗲𝗻𝗱𝗮
 
-### 19.04 
+### 19.04 *Encerrado*
 * 18h, Confirmação dos Selecionados Encerrada - [Acesse aqui os alunos que confirmaram a inscrição](https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie/raw/main/Confirmados_Hackathon_Itau.pdf)
 * Início de Treinamentos Extras Opcionais (ver agenda e inscrições abaixo)
 
-### 20.04 
+### 20.04 *Encerrado*
 * Chamada dos inscritos em Lista de Espera
 * Link de treinamentos para que os participantes já comecem a preparação (aqui e por e-mail)
 
-### 25.04 (dia inteiro)
+### 25.04 *Encerrado*
 * Treinamento on-line
-* [Click aqui para acessar o evento de abertura no Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWJlNWIxM2UtOGFmZi00ZmU5LTg5MzQtY2YwMzIzYWMyOGQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22591669a0-183f-49a5-98f4-9aa0d0b63d81%22%2c%22Oid%22%3a%22aed66be0-e08b-44d8-b49d-12176cceb823%22%7d)
 
 <br>
 
@@ -42,7 +42,18 @@
 
 <br>
 
-* Para todos os candidatos selecionados foi enviado **email com invite para todas as demais palestras e treinamentos** ao longo do dia
+* Acesse aqui as gravações das Palestras do dia de Abertura (25.04)
+
+> * [Imersão do Case](http://meusite.mackenzie.br/rogerio/videos/BatalhaMackenzieImersaoDoCase20220425.mp4) *imperdível!!!*
+
+> * [Respeita meu Prep](http://meusite.mackenzie.br/rogerio/videos/BatalhaMackenzieRespeitaMeuPrep20220425.mp4)
+
+> * [Bate-Papo Carreira Ciência de Dados](http://meusite.mackenzie.br/rogerio/videos/BatalhaMackenzieCarreiraCienciaDeDados20220425.mp4)
+
+> * [Bata-Papo Cientista de Dados](http://meusite.mackenzie.br/rogerio/videos/BatalhaMackenzieBatePapoComCientistas20220425.mp4)
+
+
+<br>
 
 ### 02, 03, 04.05 (dia inteiro)
 * O Desafio! Participação do Hackathon e Atividades Complementares (dias inteiros)
@@ -106,7 +117,7 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 <br>
 <br>
 
-### 𝟮𝟱.𝟬𝟰 𝗦𝗲𝗴 𝟮𝟭:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟮:𝟬𝟬𝗵
+### 𝗥 𝗘 𝗣 𝗥 𝗢 𝗚 𝗥 𝗔 𝗠 𝗔 𝗗 𝗢   𝟮𝟳.𝟬𝟰 𝗦𝗲𝗴 𝟮𝟭:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟮:𝟬𝟬𝗵
 ### 𝗔𝗽𝗿𝗲𝗻𝗱𝗶𝘇𝗮𝗱𝗼 𝗱𝗲 𝗠𝗮́𝗾𝘂𝗶𝗻𝗮 𝗲 𝗦𝗲́𝗿𝗶𝗲𝘀 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗶𝘀 𝗲𝗺 𝗣𝘆𝘁𝗵𝗼𝗻 
 
 > *Feature engineering*; Regressores do `scikit-learn` para predição de valores; Predição multimodal (mais que uma variável); Prevendo o aluguel de Bikes com Dados Climáticos!!! rs
@@ -129,7 +140,7 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 <br>
 <br>
 
-### 𝟮𝟴.𝟬𝟰 𝗦𝗲𝗴 𝟮𝟬:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟭:𝟬𝟬𝗵 ATENÇÃO AQUI, A DATA MUDOU
+### 𝗥 𝗘 𝗣 𝗥 𝗢 𝗚 𝗥 𝗔 𝗠 𝗔 𝗗 𝗢   𝟮𝟴.𝟬𝟰 𝗦𝗲𝗴 𝟮𝟬:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟭:𝟬𝟬𝗵  
 ### 𝗜𝗻𝗰𝗹𝘂𝗶𝗱𝗼 𝗩𝗮𝗿𝗶𝗮́𝘃𝗲𝗶𝘀 𝗘𝘅𝘁𝗲𝗿𝗻𝗮𝘀 𝗮𝗼𝘀 𝗠𝗼𝗱𝗲𝗹𝗼𝘀 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗶𝘀
 
 > Previsão de Séries Temporais incluindo variáveis Exógenas, com Python e o pacote statsmodel. 
