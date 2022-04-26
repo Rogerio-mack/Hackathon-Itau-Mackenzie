@@ -50,7 +50,9 @@
 
 > * [Bate-Papo Carreira Ciência de Dados](http://meusite.mackenzie.br/rogerio/videos/BatalhaMackenzieCarreiraCienciaDeDados20220425.mp4)
 
-> * [Bata-Papo Cientista de Dados](http://meusite.mackenzie.br/rogerio/videos/BatalhaMackenzieBatePapoComCientistas20220425.mp4)
+> * [Bate-Papo Cientista de Dados](http://meusite.mackenzie.br/rogerio/videos/BatalhaMackenzieBatePapoComCientistas20220425.mp4)
+
+> * [Storytelling](http://meusite.mackenzie.br/rogerio/videos/BatalhaMackenzieStorytelling20220425.mp4)
 
 
 <br>
