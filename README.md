@@ -117,7 +117,7 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > [notebook](https://colab.research.google.com/github/Rogerio-mack/Hackathon-Itau-Mackenzie/blob/main/E3_TimeSeriesWithML.ipynb)
 
-> [link para assistir no horário](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) 
+> [link para assistir no horário](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) 
 
 > **Referências**
 
