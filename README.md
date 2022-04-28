@@ -129,18 +129,18 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 <br>
 <br>
 
-### 𝗣 𝗥 𝗢 𝗚 𝗥 𝗔 𝗠 𝗔 𝗗 𝗢   𝟮𝟳.𝟬𝟰 𝗤𝘂𝗮 𝟮𝟭:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟮:𝟬𝟬𝗵
+### 𝟮𝟳.𝟬𝟰 𝗤𝘂𝗮 𝟮𝟭:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟮:𝟬𝟬𝗵 *Concluído*
 ### 𝗔𝗽𝗿𝗲𝗻𝗱𝗶𝘇𝗮𝗱𝗼 𝗱𝗲 𝗠𝗮́𝗾𝘂𝗶𝗻𝗮 𝗲 𝗦𝗲́𝗿𝗶𝗲𝘀 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗶𝘀 𝗲𝗺 𝗣𝘆𝘁𝗵𝗼𝗻 
 
 > *Feature engineering*; Regressores do `scikit-learn` para predição de valores; Predição multimodal (mais que uma variável); Prevendo o aluguel de Bikes com Dados Climáticos!!! rs
 
 > *(Mackenzie FCI Prof. Rogério de Oliveira)* 
 
-> [inscrição opcional, o acesso é livre](https://forms.gle/7qAmYZf3Jc8NrqCR8)
+> [inscrições encerradas](encerradas)
 
 > [notebook](https://colab.research.google.com/github/Rogerio-mack/Hackathon-Itau-Mackenzie/blob/main/E3_TimeSeriesWithML.ipynb)
 
-> [link para assistir no horário](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) 
+> [assista a gravação](http://meusite.mackenzie.br/rogerio/videos/E1_20220427.mp4) 
 
 > **Referências**
 
@@ -152,7 +152,7 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 <br>
 <br>
 
-### 𝗣 𝗥 𝗢 𝗚 𝗥 𝗔 𝗠 𝗔 𝗗 𝗢   𝟮𝟴.𝟬𝟰 𝗤𝘂𝗶 𝟮𝟬:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟭:𝟬𝟬𝗵
+### 𝟮𝟴.𝟬𝟰 𝗤𝘂𝗶 𝟮𝟬:𝟬𝟬𝗵 𝗮̀𝘀 𝟮𝟭:𝟬𝟬𝗵
 ### 𝗜𝗻𝗰𝗹𝘂𝗶𝗱𝗼 𝗩𝗮𝗿𝗶𝗮́𝘃𝗲𝗶𝘀 𝗘𝘅𝘁𝗲𝗿𝗻𝗮𝘀 𝗮𝗼𝘀 𝗠𝗼𝗱𝗲𝗹𝗼𝘀 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗶𝘀
 
 > Previsão de Séries Temporais incluindo variáveis Exógenas, com Python e o pacote statsmodel. 
