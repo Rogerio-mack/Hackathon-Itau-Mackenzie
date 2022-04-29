@@ -140,7 +140,7 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > [notebook](https://colab.research.google.com/github/Rogerio-mack/Hackathon-Itau-Mackenzie/blob/main/E3_TimeSeriesWithML.ipynb)
 
-> [assista a gravação](http://meusite.mackenzie.br/rogerio/videos/E1_20220427.mp4) 
+> [assista a gravação](http://meusite.mackenzie.br/rogerio/videos/E3_20220427.mp4) 
 
 > **Referências**
 
