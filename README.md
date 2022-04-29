@@ -159,10 +159,11 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > (Mackenzie EE Prof Gustavo Rocha)
 
-> [inscrição opcional, o acesso é livre](https://docs.google.com/forms/d/e/1FAIpQLSewanp8PSPWHIMraF0OPMe2jwRh8MNCw40iuWE3NPjmhgEaUw/viewform?usp=sf_link)
+> [inscrições encerradas](encerradas)
 
-> [link para assistir no horário](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM0OTAwMjktYmI0My00ZGQyLWJjYTgtNTg4ZGNjZjUzNjA3%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%221a56ea97-72a5-4dbd-8dc3-4c9285e6d3b2%22%7d)
+> [notebook](https://colab.research.google.com/github/Rogerio-mack/Hackathon-Itau-Mackenzie/blob/main/E3_TimeSeriesSARIMAX.ipynb)
 
+> [assista a gravação] *em andamento*
 
 <br>
 <br>
