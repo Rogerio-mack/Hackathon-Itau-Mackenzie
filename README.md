@@ -142,8 +142,7 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > [assista a gravação](http://meusite.mackenzie.br/rogerio/videos/E2_20220427.mp4) 
 
-> **Referências**
-
+> **Referências** *no reloginho abaixo um minicurso com mais sobre este tema*
 <br>
 <br>
 
