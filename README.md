@@ -164,7 +164,7 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 
 > [base de dados](https://github.com/Rogerio-mack/Hackathon-Itau-Mackenzie/raw/main/uschange_1.csv)
 
-> [assista a gravação](https://mackenzie365-my.sharepoint.com/personal/1151512_mackenzie_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1151512%5Fmackenzie%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FAula%20Time%20Series%20%2D%20Vari%C3%A1veis%20Ex%C3%B3genas%2D20220428%5F200843%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&parent=%2Fpersonal%2F1151512%5Fmackenzie%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es&ga=1)
+> [assista a gravação](https://www.youtube.com/watch?v=YRzYno7FEUU)
 
 <br>
 <br>
