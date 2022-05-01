@@ -169,4 +169,26 @@ Prepare-se melhor para o desafio.... faça sua inscrição! São sessões opcion
 <br>
 <br>
 
+---
+
+## Outras Referências úteis
+*Em ordem de utilidade para o desafio*
+
+> **Trabalhando com Séries Temporais e Dates no Pandas** | Book Online
+https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html
+
+> **VAR, previsão quando duas ou mais séries temporais influenciam uma à outra** | Tutoriais
+https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/
+https://analyticsindiamag.com/a-guide-to-varma-with-auto-arima-in-time-series-modelling/
+
+> **Datacamp Time Series** | Tutorial com visão geral, pacotes e implementação
+https://www.datacamp.com/community/tutorials/tutorial-time-series-forecasting#multivariate-forecast
+
+> **Kaggle Time Series** | Online Course com Aprendizado de Máquina, Séries Uni e Multivariadas
+https://www.kaggle.com/learn/time-series
+
+> **Time Series Forecasting in Python** | Book Online & Videos
+https://livebook.manning.com/book/time-series-forecasting-in-python-book/welcome/v-8/
+https://www.youtube.com/channel/UC-0lpiwlftqwC7znCcF83qg/featured
+
 
